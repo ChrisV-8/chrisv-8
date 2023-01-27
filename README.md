@@ -4,15 +4,14 @@
 <h2>Cybersecurity Projects</h2>
 
 <h3><i>Python</i></h3>
-- <b>Project 1</b>
-  - [Learning Python Basics](https://github.com/chrisv-8)
+- <a href="https://github.com/chrisv-8">Learning Python Basics</a>
 
 
 <h2>Helpful Links</h2>
-<h3><i>Cheat Sheets</i></h3> 
-<b>  - [Networking] </br>
-<b>  - [Linux] </br>
-<b>  - [] </br>
+<h3><i>Cheat Sheets</i></h3>
+<a href="">Networking</a>
+</br><a href="">Linux</a>
+</br><a href="">[]</a>
 
 <!--
 **ChrisV-8/chrisv-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
