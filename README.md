@@ -1,10 +1,10 @@
-<h1>Hi, I'm Chris! 👋 <br/><a href="">Cybersecurity Student</a></h1>
-<br/>Profile is still under construction.  Links are not functional yet! Check back for future updates.
+<h1>Hi, I'm Chris! 👋 <br/>Cybersecurity Student</h1>
+<br/>Profile is still under construction. Hyperlinks are not functional yet! Check back for future updates.
 
 <h2>Cybersecurity Projects</h2>
 
 <h3><i>Python</i></h3>
-- <a href="https://github.com/chrisv-8">Learning Python Basics</a>
+- <a href="https://github.com/chrisv-8/LearningPythonBasics">Learning Python Basics</a>
 
 
 <h2>Helpful Links</h2>
